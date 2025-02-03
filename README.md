@@ -1,5 +1,7 @@
 # EDC User App
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14796958.svg)](https://doi.org/10.5281/zenodo.14796958)
+
 This repository contains the frontend (/web) and backend (/api) of the application implemented to demonstrate the integration of the EDC connector with the FIWARE BAE Marketplace.
 
 The "web" directory contains the frontend of the application, while the "api" directory contains the backend. The frontend interacts with the backend through various API endpoints to perform operations such as authentication, asset management, product management, offering management, order management, and EDC integration.
